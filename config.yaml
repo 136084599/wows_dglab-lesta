@@ -1,0 +1,6 @@
+wows_path: D:\\SteamLibrary\\steamapps\\common\\World of Warships\\
+window_sec: 0.3
+shock: 
+    usingApi: ["dglab",]
+    addStrengthWhenHitInThisRound: 0.12
+    
