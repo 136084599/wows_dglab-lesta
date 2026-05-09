@@ -27,7 +27,7 @@ test_Damage/
 ## 安装
 
 1. 确保已安装Python 3.13或更高版本
-2. 克隆或下载项目到本地
+2. 运行 `git clone https://github.com/killjsj/wows_dglab.git`  
 3. 运行 `start.bat` 脚本，它会自动安装依赖
 
 ## 配置
