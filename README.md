@@ -1,3 +1,7 @@
+> **当前莱服集成版**请进入 [DG-Lab 郊狼莱服仓库](https://github.com/136084599/DG-Lab-Coyote-Game-Hub-WOWS-Lesta)。2026-11-19 版桥接源码、离线模拟和安装说明见 [lesta-bridge](https://github.com/136084599/DG-Lab-Coyote-Game-Hub-WOWS-Lesta/tree/main/lesta-bridge)。
+>
+> 本仓保存早期莱服桥接，以下保留原说明以便对照。
+
 README.md由ai编写 人工修改过  
 # test-damage
 
